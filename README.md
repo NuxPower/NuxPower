@@ -1,4 +1,4 @@
-# hanyu@arch:~$ whoami
+# ⚡ hanyu@arch:~$ whoami
 
 ![Header](./github-header-banner.png)
 
@@ -28,6 +28,15 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 
 ---
 
+### 💻 My "Rice" (Development Environment)
+* **OS:** Arch Linux (BTW)
+* **WM:** Hyprland (Wayland)
+* **Terminal:** Kitty / Alacritty
+* **Editor:** Neovim (LazyVim/Custom)
+* **Shell:** Zsh with Oh My Zsh
+
+---
+
 ### 🔭 Currently Working On
 - [ ] Finishing my Capstone defense for **AniBukid**.
 - [ ] Hardening my **BlackArch** setup for cybersecurity labs.
@@ -46,11 +55,29 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 
 ### 📫 Connect with me
 - **Location:** Cagayan de Oro City / Bukidnon, Philippines
-- **Portfolio:** https://nuxpower.github.io/myweb/
-- **LinkedIn:** www.linkedin.com/in/yohan-lukin-callanta
+- **Portfolio:** [nuxpower.github.io/myweb/](https://nuxpower.github.io/myweb/)
+- **LinkedIn:** [yohan-lukin-callanta](https://www.linkedin.com/in/yohan-lukin-callanta)
 
 ---
 
+### 📊 Github Analytics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuxPower&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NuxPower&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
