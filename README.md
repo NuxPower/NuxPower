@@ -42,11 +42,11 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 
 ### 📫 Connect with me
 - **Location:** Cagayan de Oro City / Bukidnon, Philippines
-- **Portfolio:** nuxpower.github.io/myweb/
+- **Portfolio:** https://nuxpower.github.io/myweb/
 - **LinkedIn:** www.linkedin.com/in/yohan-lukin-callanta
 
 ---
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
