@@ -1,4 +1,4 @@
-# ⚡ hanyu@arch:~$ whoami
+# hanyu@arch:~$ whoami
 
 ![Header](./github-header-banner.png)
 
