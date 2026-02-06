@@ -60,7 +60,6 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 
 ---
 
-### 📊 Github Analytics
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
@@ -70,7 +69,6 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuxPower&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
