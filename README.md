@@ -59,11 +59,11 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 - **LinkedIn:** [yohan-lukin-callanta](https://www.linkedin.com/in/yohan-lukin-callanta)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<!-- <p align="center">
+</p> -->
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuxPower&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
