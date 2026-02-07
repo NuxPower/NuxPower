@@ -67,15 +67,15 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuxPower&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuxPower&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ---
 <p align="center">
