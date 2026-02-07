@@ -40,7 +40,7 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 ### 🔭 Currently Working On
 - [ ] Finishing my Capstone defense for **AniBukid**.
 - [ ] Hardening my **BlackArch** setup for cybersecurity labs.
-- [ ] Perfecting my Hyprland dots (Waybar and Mako configs).
+- [/] Perfecting my Hyprland dots (Waybar and Mako configs).
 
 ### 🌱 Currently Learning
 - Advanced Cloud Architecting on **AWS**.
