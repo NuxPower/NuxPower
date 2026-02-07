@@ -68,7 +68,7 @@ I’m a final-year IT student at Central Mindanao University specializing in bui
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NuxPower&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuxPower&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <picture>
