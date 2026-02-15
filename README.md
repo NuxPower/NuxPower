@@ -1,3 +1,31 @@
+
+```markdown
+<div align="center">
+
+```text
+                   -`                    hanyu@arch
+                  .o+`                   ----------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: P2540UA (1.0)
+               `+oooooo:                 Kernel: Linux 6.18.9-arch1-2
+               -+oooooo+:                Uptime: 17 hours, 19 mins
+             `/:-:++oooo+:               Packages: 1623 (pacman)
+            `/++++/+++++++:              Shell: zsh 5.9
+           `/++++++++++++++:             WM: Hyprland (Wayland)
+          `/+++ooooooooooooo/`           Terminal: kitty 0.45.0
+         ./ooosssso++osssssso+`          CPU: Intel i5-7200U (4) @ 3.10GHz
+        .oossssso-````/ossssss+`         GPU: Intel HD Graphics 620
+       -osssssso.      :ssssssso.        Memory: 16GB RAM
+      :osssssss/        osssso+++.       Status: Final Defense Ready 🚀
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                `.-/+oso:     
+ `++:.                            `-/+/  
+ .`                                 `/
+
+```
+
+</div>
 # hanyu@arch:~$ whoami
 
 
