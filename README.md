@@ -1,8 +1,6 @@
 
 ```markdown
-<div align="center">
 
-```text
                    -`                    hanyu@arch
                   .o+`                   ----------
                  `ooo/                   OS: Arch Linux x86_64
@@ -25,7 +23,6 @@
 
 ```
 
-</div>
 # hanyu@arch:~$ whoami
 
 
