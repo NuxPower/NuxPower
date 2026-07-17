@@ -12,7 +12,7 @@
          ./ooosssso++osssssso+`          CPU: Intel i5-7200U (4) @ 3.10GHz
         .oossssso-````/ossssss+`         GPU: Intel HD Graphics 620
        -osssssso.      :ssssssso.        Memory: 16GB RAM
-      :osssssss/        osssso+++.       Status: Final Defense Ready 🚀
+      :osssssss/        osssso+++.       Status: Open to Opportunities 🚀
      /ossssssss/        +ssssooo/-
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                `.-/+oso:
@@ -46,6 +46,11 @@ I'm a BS Information Technology graduate specializing in software development. M
 - Maintained and integrated legacy government systems during my internship at **DepEd Regional Office 10**
 - Most interested in **workflow automation, API integration, reliable data, and role-based systems**
 - Daily-driving **Arch Linux, Hyprland, Neovim, and Zsh**
+
+## Additional training
+
+- **AWS Academy Cloud Foundations** — completed
+- **AWS Academy Cloud Security Foundations** — completed
 
 ## Selected work
 
