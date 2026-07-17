@@ -1,3 +1,27 @@
+```text
+                   -`                    hanyu@arch
+                  .o+`                   ----------
+                 `ooo/                   OS: Arch Linux x86_64
+                `+oooo:                  Host: P2540UA (1.0)
+               `+oooooo:                 Kernel: Linux 6.18.9-arch1-2
+               -+oooooo+:                Uptime: 17 hours, 19 mins
+             `/:-:++oooo+:               Packages: 1623 (pacman)
+            `/++++/+++++++:              Shell: zsh 5.9
+           `/++++++++++++++:             WM: Hyprland (Wayland)
+          `/+++ooooooooooooo/`           Terminal: kitty 0.45.0
+         ./ooosssso++osssssso+`          CPU: Intel i5-7200U (4) @ 3.10GHz
+        .oossssso-````/ossssss+`         GPU: Intel HD Graphics 620
+       -osssssso.      :ssssssso.        Memory: 16GB RAM
+      :osssssss/        osssso+++.       Status: Final Defense Ready 🚀
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                `.-/+oso:
+ `++:.                            `-/+/
+ .`                                 `/
+```
+
+# hanyu@arch:~$ whoami
+
 <img src="./github-header-banner.png" alt="Hanyu Yuzu — Full-stack developer" width="100%">
 
 <h1 align="center">Kumusta, I'm Yohan 👋</h1>
@@ -72,4 +96,26 @@ When I'm away from application code, I'm usually tuning my [dotfiles](https://gi
 
 <p align="center">
   <em>Have a project or opportunity in mind? Let's build something useful.</em>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuxPower&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NuxPower&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
