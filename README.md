@@ -53,7 +53,7 @@ I'm a BS Information Technology graduate specializing in software development. M
 | --- | --- | --- |
 | [AniBukid](https://github.com/NuxPower/farm_operation_management) | A rice-farm operations and marketplace platform with GPS field mapping, crop lifecycle tracking, weather-informed alerts, labor and inventory workflows, reporting, and post-harvest processing. | Laravel, Vue, PostgreSQL, Docker |
 | **ROX Inventory 2.0** | Maintained and extended a government asset-management system, working on role-based access, reporting, QR workflows, API integration, and legacy PHP modernization. | Laravel, Sximo, MySQL, REST APIs |
-| **KLEMA** | A climate-smart agriculture platform with interactive farm maps, forecast caching, scheduled weather alerts, and Android/iOS delivery. | Laravel, Vue, PostgreSQL, Capacitor |
+| [KLEMA](https://github.com/NuxPower/sia-project) | A climate-smart agriculture platform with interactive farm maps, forecast caching, scheduled weather alerts, and Android/iOS delivery. | Laravel, Vue, PostgreSQL, Capacitor |
 | [AgriTrade](https://github.com/NuxPower/agritrade) | Backend APIs for a role-based agricultural marketplace covering products, carts, orders, payouts, promo codes, and farmer verification. | NestJS, PostgreSQL, JWT |
 
 You can also explore my [BusTrak mobile app](https://github.com/NuxPower/bustrak), [Iron Lifters gym system](https://github.com/NuxPower/Iron-Lifters), and [full portfolio](https://nuxpower.github.io/myweb/). Some professional and client work is kept private.
