@@ -111,6 +111,12 @@ When I'm away from application code, I'm usually tuning my [dotfiles](https://gi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=NuxPower&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak">
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuxPower/NuxPower/output/github-contribution-grid-snake.svg">
