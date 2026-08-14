@@ -104,11 +104,11 @@ When I'm away from application code, I'm usually tuning my [dotfiles](https://gi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuxPower&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NuxPower&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
 </p>
 
 <p align="center">
